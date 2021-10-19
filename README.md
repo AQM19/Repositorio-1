@@ -6,3 +6,5 @@ Me gusta la programación desde que entré en el equipo de trabajo de *Indole St
 Después de acabar este curso comenzaré el "Master" de creación de inteligencias artificiales para poder crear un proyecto para mi futura casa.
 
 También me gustan las croquetas.
+
+🇧🇷 huehuehuehuehuehuehue!
