@@ -9,5 +9,8 @@ package github;
  * @author DAM122
  */
 public class clase1 {
+    public static void main(String[] args){
+        System.out.println("Te actualicé");
+    }
     
 }
